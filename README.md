@@ -1,2 +1,2 @@
-# the-trash
-whjr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
